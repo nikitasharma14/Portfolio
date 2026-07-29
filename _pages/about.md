@@ -1,7 +1,6 @@
 ---
-layout: archive
-permalink: /about/
-title: "Nikita Sharma"
+permalink:
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
