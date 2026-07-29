@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Nikita Sharma"
 author_profile: true
 redirect_from: 
   - /about/
