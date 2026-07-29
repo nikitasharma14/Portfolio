@@ -4,7 +4,7 @@ title: "Academic Pages is a ready-to-fork GitHub Pages template for academic per
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
+  - /about.html 
 ---
 
 I am a researcher working at the intersection of **Digital Health, Human–Computer Interaction (HCI), Artificial Intelligence, and Behaviour Change**.
