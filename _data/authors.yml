@@ -12,9 +12,11 @@ nikita:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=BB6b9JUAAAAJ&hl=en"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nikitasharma14"
+
     - label: "LinkedIn"
-      icon: "www.linkedin.com/in/nikitasharma-14
-      url: "YOUR_LINKEDIN_LINK"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/nikitasharma-14"
