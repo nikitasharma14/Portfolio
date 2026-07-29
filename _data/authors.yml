@@ -1,18 +1,20 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+nikita:
+  name: "Nikita Sharma"
+  avatar: "profile.jpg"
+  bio: "Researcher in Digital Health, Human–Computer Interaction, Artificial Intelligence, and Behaviour Change."
+  location: "Netherlands"
+  employer: "Basalt Rehabilitation Center"
+  uri: "https://nikitasharma14.github.io/Portfolio/"
+  email: "n.sharma@basaltrevalidatie.nl"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=BB6b9JUAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nikitasharma14"
+    - label: "LinkedIn"
+      icon: "www.linkedin.com/in/nikitasharma-14
+      url: "YOUR_LINKEDIN_LINK"
