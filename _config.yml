@@ -23,7 +23,7 @@ repository              : "nikitasharma14/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Nikita Sharma"
   pronouns         : 
   bio              : "Researcher in Digital Health, Human–Computer Interaction, Artificial Intelligence, and Behaviour Change."
