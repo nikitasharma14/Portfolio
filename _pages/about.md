@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Nikita Sharma"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
