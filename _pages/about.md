@@ -1,5 +1,6 @@
 ---
-permalink: / 
+layout: single
+permalink: /about/
 title: "Nikita Sharma"
 author_profile: true
 redirect_from: 
