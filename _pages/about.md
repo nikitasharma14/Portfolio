@@ -1,10 +1,10 @@
 ---
-layout: archive
-permalink: /about/
-title: "Nikita Sharma"
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
+  - /about.html
 ---
 
 I am a researcher working at the intersection of **Digital Health, Human–Computer Interaction (HCI), Artificial Intelligence, and Behaviour Change**.
