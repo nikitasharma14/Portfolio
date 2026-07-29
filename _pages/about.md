@@ -1,12 +1,12 @@
 ---
+layout: archive
+title: "Nikita Sharma"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html 
+  - /about.html
 ---
-
 I am a researcher working at the intersection of **Digital Health, Human–Computer Interaction (HCI), Artificial Intelligence, and Behaviour Change**.
 
 My research focuses on designing and evaluating human-centered technologies that support health, wellbeing, rehabilitation, and independent living. I combine data-driven approaches, behavioural theories, and participatory design methods to develop digital solutions that are meaningful, usable, and impactful in real-world healthcare settings.
