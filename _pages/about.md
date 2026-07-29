@@ -1,10 +1,10 @@
 ---
-permalink:
-title: ""
+layout: archive
+permalink: /about/
+title: "Nikita Sharma"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I am a researcher working at the intersection of **Digital Health, Human–Computer Interaction (HCI), Artificial Intelligence, and Behaviour Change**.
