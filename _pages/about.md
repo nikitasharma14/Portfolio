@@ -6,14 +6,12 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
-I am a researcher working at the intersection of **Digital Health, Human–Computer Interaction (HCI), Artificial Intelligence, and Behaviour Change**.
-
-My research focuses on designing and evaluating human-centered technologies that support health, wellbeing, rehabilitation, and independent living. I combine data-driven approaches, behavioural theories, and participatory design methods to develop digital solutions that are meaningful, usable, and impactful in real-world healthcare settings.
+---I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital & Sensing Technologies**. I combine human-centered design *(to understand people and their needs)*, behavioural science *(to support sustainable behaviour change)*, and artificial intelligence *(to develop intelligent and personalized solutions)* to design, evaluate, and implement digital health and sensing technologies *(to enable real-world healthcare innovation)* that improve individual health, wellbeing, and broader societal outcomes.
 
 ## Research Vision
 
 I am interested in understanding how emerging technologies can support individuals and healthcare professionals in making better-informed decisions and achieving sustainable health outcomes. My work bridges technology development with human needs, focusing on the design, evaluation, and implementation of intelligent health interventions.
+My research focuses on designing and evaluating human-centered technologies that support health, wellbeing, rehabilitation, and independent living. I combine data-driven approaches, behavioural theories, and participatory design methods to develop digital solutions that are meaningful, usable, and impactful in real-world healthcare settings.
 
 ## Academic Background
 
