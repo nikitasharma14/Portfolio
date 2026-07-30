@@ -15,24 +15,17 @@ I apply human-centered design *(to understand people and their needs)*, behaviou
 
 ## Research Vision
 
-Meaningful innovation in healthcare requires more than technological advancement; it requires solutions that are human-centered, trustworthy, equitable, and responsive to diverse needs and contexts. Technologies must be designed not only for end users, but also in collaboration with healthcare professionals and within the realities of healthcare systems.
+While technological advancement drives new possibilities in healthcare, meaningful innovation requires solutions that are human-centered, trustworthy, equitable, and responsive to diverse needs and contexts. This requires designing technologies with and for the people involved in healthcare — including those receiving care, delivering care, and supporting care processes — while ensuring they align with the realities and complexities of healthcare systems.
 
-Currently, I work on developing, evaluating, and implementing human-centered healthcare technologies that empower individuals, support healthcare professionals, and contribute to stronger and more sustainable care systems.
+Guided by this philosophy, I develop, evaluate, and implement human-centered healthcare technologies that empower individuals, support healthcare professionals, and strengthen healthcare systems to improve health outcomes, wellbeing, and quality of care.
 
-My research vision is to contribute to a future where health technologies, particularly those enabled by artificial intelligence, are designed not only to be intelligent, but also transparent, trustworthy, inclusive, and accessible.
-
-By bridging research, design, and implementation, my work aims to move beyond the development of novel technologies toward the creation of responsible and sustainable healthcare innovations that improve health outcomes, wellbeing, and quality of care.
+Looking ahead, I aspire to advance the responsible design and use of AI in healthcare by developing data-driven technologies that promote transparency, trust, equity, and accessibility in healthcare decision-making. My long-term vision is to contribute to sustainable healthcare innovations that improve health outcomes and help address global health challenges.
 
 ## Academic Background
 
-I completed my PhD through a joint doctoral program between the **University of Twente (Netherlands)** and the **University of Oulu (Finland)**. My doctoral research focused on device-free sensing technologies using Wi-Fi signals to enable unobtrusive monitoring of human behaviour and wellbeing.
+I completed a **dual PhD** at the **University of Twente (The Netherlands)** and the **University of Oulu (Finland)**. My doctoral research focused on the development and implementation of device-free sensing technologies using Wi-Fi signals to enable unobtrusive monitoring of older adults experiencing cognitive decline and support their informal caregivers in delivering personalized and quality care. I was fortunate to be supervised by **:contentReference[oaicite:0]{index=0}**, **:contentReference[oaicite:1]{index=1}**, and **:contentReference[oaicite:2]{index=2}**, whose expertise in pervasive computing, eHealth, and persuasive systems greatly shaped my interdisciplinary research journey. :contentReference[oaicite:3]{index=3}
 
-During my academic journey, I have worked on interdisciplinary projects combining:
-- Human–Computer Interaction
-- Artificial Intelligence
-- Behavioural Science
-- Ubiquitous Computing
-- Digital Health Technologies
+Prior to my PhD, I earned an **M.S. by Research in Electronics and Communication Engineering** from the **International Institute of Information Technology (IIIT) Hyderabad, India**. My master's research investigated the neural correlates of empathy in bystanders witnessing rape scenarios using functional magnetic resonance imaging (fMRI), which sparked my enduring interest in understanding human behaviour through technology and data.
 
 ## Current Research
 
