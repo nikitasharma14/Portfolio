@@ -26,7 +26,7 @@ author:
   avatar           : "image.png"
   name             : "Nikita Sharma"
   pronouns         : 
-  bio              : "Transdisciplinary Researcher <br> Advancing Human-Centered Healthcare Innovation"
+  bio              : "<div style='text-align:center;'><strong>Transdisciplinary Researcher</strong><br><em>Advancing Human-Centered Healthcare Innovation</em></div>" 
   location         : "Netherlands"
   employer         : "Basalt Rehabilitation Center"
   uri              : "https://nikitasharma14.github.io/Portfolio/"
