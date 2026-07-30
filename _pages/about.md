@@ -15,8 +15,13 @@ I apply human-centered design *(to understand people and their needs)*, behaviou
 
 ## Research Vision
 
-I am interested in understanding how emerging technologies can support individuals and healthcare professionals in making better-informed decisions and achieving sustainable health outcomes. My work bridges technology development with human needs, focusing on the design, evaluation, and implementation of intelligent health interventions.
-My research focuses on designing and evaluating human-centered technologies that support health, wellbeing, rehabilitation, and independent living. I combine data-driven approaches, behavioural theories, and participatory design methods to develop digital solutions that are meaningful, usable, and impactful in real-world healthcare settings.
+Meaningful innovation in healthcare requires more than technological advancement; it requires solutions that are human-centered, trustworthy, equitable, and responsive to diverse needs and contexts. Technologies must be designed not only for end users, but also in collaboration with healthcare professionals and within the realities of healthcare systems.
+
+Currently, I work on developing, evaluating, and implementing human-centered healthcare technologies that empower individuals, support healthcare professionals, and contribute to stronger and more sustainable care systems.
+
+My research vision is to contribute to a future where health technologies, particularly those enabled by artificial intelligence, are designed not only to be intelligent, but also transparent, trustworthy, inclusive, and accessible.
+
+By bridging research, design, and implementation, my work aims to move beyond the development of novel technologies toward the creation of responsible and sustainable healthcare innovations that improve health outcomes, wellbeing, and quality of care.
 
 ## Academic Background
 
