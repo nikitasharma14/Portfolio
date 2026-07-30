@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital & Sensing Technologies**. I combine human-centered design *(to understand people and their needs)*, behavioural science *(to support sustainable behaviour change)*, and artificial intelligence *(to develop intelligent and personalized solutions)* to design, evaluate, and implement digital health and sensing technologies *(to enable real-world healthcare innovation)* that improve individual health, wellbeing, and broader societal outcomes.
+I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital & Sensing Technologies**. 
+
+I apply human-centered design *(to understand people and their needs)*, behavioural science *(to support sustainable behaviour change)*, and artificial intelligence *(to develop intelligent and personalized solutions)* to design, evaluate, and implement digital health and sensing technologies that empower individuals, support healthcare professionals, and contribute to healthier societies.
 
 ## Research Vision
 
