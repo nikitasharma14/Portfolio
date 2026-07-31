@@ -1,0 +1,35 @@
+/* ==========================================
+   Custom Homepage Styling
+   ========================================== */
+
+
+/* Main content width and readability */
+.page__content {
+  max-width: 900px;
+  font-size: 1.08rem;
+  line-height: 1.9;
+}
+
+
+/* Section headings */
+.page__content h2 {
+  margin-top: 4rem;
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  border-bottom: none;
+}
+
+
+/* Subheadings */
+.page__content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.35rem;
+}
+
+
+/* Paragraph spacing */
+.page__content p {
+  margin-bottom: 1.5rem;
+}
