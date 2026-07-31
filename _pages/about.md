@@ -22,11 +22,11 @@ Looking ahead, I aspire to advance the responsible design and use of AI in healt
 
 ## Academic Background
 
-I completed a **dual PhD** at the **University of Twente (The Netherlands)** and the **University of Oulu (Finland)**. My doctoral research focused on the development and implementation of device-free sensing technologies using Wi-Fi signals to enable unobtrusive monitoring of older adults experiencing cognitive decline and support their informal caregivers in delivering personalized and quality care. This interdisciplinary work combined pervasive computing, behavioural science, and human-centered design under the supervision of **[Prof. Paul Havinga](https://scholar.google.com/citations?user=tthSxV0AAAAJ&hl=en)**, **[Dr. Lisette van Gemert-Pijnen](https://scholar.google.com/citations?user=_pufcS4AAAAJ&hl=en)**, and **[Prof. Harri Oinas-Kukkonen](https://scholar.google.com/citations?user=CBDr26wAAAAJ&hl=fi)**.
+I completed a **dual PhD** at the **University of Twente (The Netherlands)** and the **University of Oulu (Finland)**. My doctoral research focused on the development and implementation of device-free sensing technologies using Wi-Fi signals to enable unobtrusive monitoring of older adults experiencing cognitive decline and support their informal caregivers in delivering personalized and quality care. This interdisciplinary work combined pervasive computing, behavioural science, and human-centered design under the supervision of [Prof. Paul Havinga](https://scholar.google.com/citations?user=tthSxV0AAAAJ&hl=en)**, [Dr. Lisette van Gemert-Pijnen](https://scholar.google.com/citations?user=_pufcS4AAAAJ&hl=en), and [Prof. Harri Oinas-Kukkonen](https://scholar.google.com/citations?user=CBDr26wAAAAJ&hl=fi).
 
-Prior to my PhD, I completed an **M.S. by Research in Electronics and Communication Engineering** at the **International Institute of Information Technology (IIIT) Hyderabad, India**. My master's research investigated the **neural correlates of empathy among bystanders witnessing sexual violence using functional magnetic resonance imaging (fMRI)**. This work was conducted under the supervision of **[Dr. Kavita Vemuri](https://scholar.google.com/citations?user=488WMOAAAAAJ&hl=en)**.
+Prior to my PhD, I completed an **M.S. by Research in ECE** at the **International Institute of Information Technology (IIIT) Hyderabad, India**. My master's research investigated the **neural correlates of empathy among bystanders witnessing sexual violence using functional magnetic resonance imaging (fMRI)**. This work was conducted under the supervision of [Dr. Kavita Vemuri](https://scholar.google.com/citations?user=488WMOAAAAAJ&hl=en).
 
-## Current Research
+## Current Role
 
 Currently, I work as a **Senior Researcher in Rehabilitation Care at Basalt Rehabilitation Center, Netherlands**.
 
