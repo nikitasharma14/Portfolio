@@ -1,9 +1,12 @@
 /* ==========================================
-   Custom Homepage Styling
+   Custom Styling - Nikita Sharma Portfolio
    ========================================== */
 
 
-/* Main content text */
+/* ------------------------------------------
+   Main content typography
+   ------------------------------------------ */
+
 .page__content {
   max-width: 850px;
   font-size: 1.12rem;
@@ -11,44 +14,120 @@
 }
 
 
-/* Sidebar name */
+/* Paragraph spacing */
+
+.page__content p {
+  margin-bottom: 1.8rem;
+}
+
+
+/* ------------------------------------------
+   Sidebar
+   ------------------------------------------ */
+
+/* Name in sidebar */
 .author__name {
-  color: #1B263B !important;   /* Dark navy */
+  color: #1B263B !important;
 }
 
 
-/* Main page headings */
-.page__content h1 {
-  color: #1B263B !important;   /* Dark navy */
+/* Sidebar bio */
+.author__bio {
+  color: #4A5568;
 }
 
 
-/* Section headings */
+/* ------------------------------------------
+   Homepage title and headings
+   ------------------------------------------ */
+
+
+/* Main page title (if present) */
+
+.page__title {
+  color: #1B263B !important;
+  font-weight: 700;
+}
+
+
+/* All section headings */
+
 .page__content h2 {
-  color: #264653 !important;   /* Blue-green */
-}
-
-
-/* Sub-section headings */
-.page__content h3 {
-  color: #2A9D8F !important;   /* Teal */
-}
-
-
-/* More whitespace */
-.page__content h2 {
+  color: #264653 !important;
+  font-size: 2rem;
+  font-weight: 600;
   margin-top: 5rem;
   margin-bottom: 1.5rem;
-  font-weight: 600;
+  border-bottom: none;
 }
 
 
+/* Subsection headings */
+
 .page__content h3 {
+  color: #2A9D8F !important;
+  font-size: 1.35rem;
+  font-weight: 600;
   margin-top: 2.5rem;
 }
 
 
-/* Paragraph readability */
-.page__content p {
-  margin-bottom: 1.8rem;
+/* ------------------------------------------
+   Specific homepage sections
+   ------------------------------------------ */
+
+#research-vision {
+  color: #264653 !important;
+}
+
+
+#current-role {
+  color: #2A9D8F !important;
+}
+
+
+#academic-background {
+  color: #1B263B !important;
+}
+
+
+#research-interests {
+  color: #2A9D8F !important;
+}
+
+
+/* ------------------------------------------
+   Links
+   ------------------------------------------ */
+
+.page__content a {
+  color: #2A9D8F;
+  text-decoration: none;
+}
+
+
+.page__content a:hover {
+  color: #264653;
+  text-decoration: underline;
+}
+
+
+/* ------------------------------------------
+   Hero introduction (first paragraph)
+   ------------------------------------------ */
+
+.page__content > p:first-of-type {
+  font-size: 1.25rem;
+  line-height: 1.9;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+
+/* ------------------------------------------
+   Better spacing between sections
+   ------------------------------------------ */
+
+.page__content h2 + p {
+  margin-top: 0.5rem;
 }
