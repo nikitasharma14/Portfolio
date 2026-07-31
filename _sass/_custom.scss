@@ -3,33 +3,58 @@
    ========================================== */
 
 
-/* Main content width and readability */
+/* Main content area */
 .page__content {
-  max-width: 900px;
-  font-size: 1.08rem;
+  max-width: 850px;
+  font-size: 1.15rem;
+  line-height: 1.85;
+}
+
+
+/* Hero/introduction text */
+.page__content > p:first-of-type {
+  font-size: 1.3rem;
   line-height: 1.9;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 
 /* Section headings */
 .page__content h2 {
-  margin-top: 4rem;
-  margin-bottom: 1.2rem;
-  font-size: 2rem;
+  font-size: 2.1rem;
   font-weight: 600;
-  border-bottom: none;
+  margin-top: 5rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+
+/* Remove default underline */
+.page__content h2::after {
+  display: none;
 }
 
 
 /* Subheadings */
 .page__content h3 {
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
-  font-size: 1.35rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
 }
 
 
 /* Paragraph spacing */
 .page__content p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.8rem;
+}
+
+
+/* Links */
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
 }
