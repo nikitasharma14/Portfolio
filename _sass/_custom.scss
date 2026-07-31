@@ -1,3 +1,54 @@
-body {
-  background-color: yellow !important;
+/* ==========================================
+   Custom Homepage Styling
+   ========================================== */
+
+
+/* Main content text */
+.page__content {
+  max-width: 850px;
+  font-size: 1.12rem;
+  line-height: 1.85;
+}
+
+
+/* Sidebar name */
+.author__name {
+  color: #1B263B !important;   /* Dark navy */
+}
+
+
+/* Main page headings */
+.page__content h1 {
+  color: #1B263B !important;   /* Dark navy */
+}
+
+
+/* Section headings */
+.page__content h2 {
+  color: #264653 !important;   /* Blue-green */
+}
+
+
+/* Sub-section headings */
+.page__content h3 {
+  color: #2A9D8F !important;   /* Teal */
+}
+
+
+/* More whitespace */
+.page__content h2 {
+  margin-top: 5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+
+.page__content h3 {
+  margin-top: 2.5rem;
+}
+
+
+/* Paragraph readability */
+.page__content p {
+  margin-bottom: 1.8rem;
 }
