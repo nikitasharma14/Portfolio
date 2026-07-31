@@ -9,6 +9,23 @@ redirect_from:
 ---
 
 
+<div align="center">
+
+# Nikita Sharma
+
+### Transdisciplinary Researcher  
+*Advancing Human-Centered Healthcare Innovation*
+
+I develop **human-centered healthcare technologies** by integrating **Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital & Sensing Technologies** to improve health, wellbeing, rehabilitation, and independent living.
+
+<p>
+<a href="https://scholar.google.com/citations?user=BB6b9JUAAAAJ&hl=en">🎓 Google Scholar</a> •
+<a href="https://github.com/nikitasharma14">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/nikitasharma-14">🔗 LinkedIn</a>
+</p>
+
+</div>
+
 I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital & Sensing Technologies**. 
 
 I apply human-centered design *(to understand people and their needs)*, behavioural science *(to support sustainable behaviour change)*, and artificial intelligence *(to develop intelligent and personalized solutions)* to design, evaluate, and implement digital health and sensing technologies that empower individuals, support healthcare professionals, and contribute to healthier societies.
