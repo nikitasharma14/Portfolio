@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/ Implementation of Unobtrusive sensing systems for older adult care: Scoping review
+permalink: /publication/Implementation of Unobtrusive sensing systems for older adult care: Scoping review
 excerpt: ''
 date: 
 venue: ''
