@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -10,30 +10,11 @@ My research focuses on developing, evaluating, and implementing human-centered h
 <div class="research-grid">
 
 {% for project in site.portfolio %}
-  <div class="research-card">
 
-    <a href="{{ project.url }}">
-      <div class="research-image">
-        {% if project.image %}
-        <img src="{{ project.image }}" alt="{{ project.title }}">
-        {% endif %}
-      </div>
+<h2>{{ project.title }}</h2>
 
-      <div class="research-content">
-        <h3>{{ project.title }}</h3>
+<p>{{ project.url }}</p>
 
-        {% if project.skills %}
-        <div class="skill-tags">
-          {% for skill in project.skills %}
-          <span>{{ skill }}</span>
-          {% endfor %}
-        </div>
-        {% endif %}
-
-      </div>
-    </a>
-
-  </div>
 {% endfor %}
 
 </div>
