@@ -9,16 +9,13 @@
 
 main:
 
-  - title: "Research"
-    url: /research/
+  - title: "Research & Projects"
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /portfolio/
-
-  - title: "Talks/Services"
+  - title: "Other Services"
     url: /talks/
 
   - title: "CV"
