@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 Below are selected research projects that reflect my transdisciplinary research in healthcare.
