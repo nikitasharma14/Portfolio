@@ -15,7 +15,7 @@ I have served as a reviewer for:
 
 ## Conference Reviewer
 
-I have contributed as a reviewer for:
+I have contributed as a associate editor for:
 
 - *[Conference Name 1]*
 - *[Conference Name 2]*
