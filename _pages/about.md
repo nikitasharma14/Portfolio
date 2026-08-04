@@ -12,7 +12,7 @@ I am a transdisciplinary researcher working at the intersection of **Human–Com
 
 ## Research Vision
 
-While technological advancement drives new possibilities in healthcare, meaningful innovation requires solutions that are responsive to the diverse needs, experiences, and contexts of end-users. This involves designing technologies *with* and *for* the people involved in healthcare — including those receiving care, delivering care, and supporting care processes — while ensuring that solutions align with the realities and complexities of healthcare systems.
+While technological advancement drives new possibilities in healthcare, meaningful innovation requires solutions that are responsive to the diverse needs, experiences, and contexts of end-users. This involves designing technologies *with* and *for* the people involved in healthcare — including those receiving care, delivering care, and supporting care processes — while ensuring that solutions align with the complexities of evolving healthcare systems.
 
 In my research, I place people at the center of innovation by designing and adapting technologies around their needs, experiences, and expectations. I integrate **human-centered design** to understand users and their needs, **behavioural science** to promote sustainable behaviour change, and **artificial intelligence** to develop personalized and data-driven solutions. This transdisciplinary approach supports the translation of research into healthcare technologies that are scientifically rigorous, meaningful to users, and feasible for implementation in real-world settings.
 
@@ -28,12 +28,12 @@ Prior to my PhD, I completed an **M.S. by Research in ECE** at the **Internation
 
 Currently, I work as a Senior Researcher in the Cardiology Department at Basalt Rehabilitation Center, The Netherlands, where I am establishing a research line focused on advancing technology-driven and data-informed cardiac rehabilitation care.
 
-My current research focuses on:
+My current research projects are:
 
-- Data-driven insights for cardiac rehabilitation: Conducting retrospective analyses of rehabilitation data to understand patient characteristics, treatment pathways, and determinants of outcomes for supporting evidence-based care improvement and integration of rehabilitation data with the national heart registry (NHR).
-- Digital and hybrid rehabilitation pathways: Refining and evaluating digital and hybrid care models that complement traditional rehabilitation and support personalized, flexible, and accessible care delivery.
-- AI-supported rehabilitation decision-making: Exploring the use of sensing technologies and artificial intelligence to develop clinical decision-support tools that assist physiotherapists in estimating optimal training intensity, monitoring patient progress, and adapting rehabilitation programs over time.
-- Data quality and responsible data use: Establishing approaches to improve healthcare data quality, interoperability, and readiness for secondary data usage.
+- *Data-driven insights for cardiac rehabilitation*: Conducting retrospective analyses of rehabilitation data to understand patient characteristics, treatment pathways, and determinants of outcomes for supporting evidence-based care improvement and integration of rehabilitation data with the national heart registry (NHR).
+- *Digital and hybrid rehabilitation pathways*: Refining and evaluating digital and hybrid care models that complement traditional rehabilitation and support personalized, flexible, and accessible care delivery.
+- *AI-supported decision-making for rehabilitation training*: Exploring the use of sensing technologies and artificial intelligence to develop clinical decision-support tools that assist physiotherapists in estimating optimal training intensity, monitoring patient progress, and adapting rehabilitation programs over time.
+- *Data quality and responsible data use*: Establishing approaches to improve healthcare data quality, interoperability, and readiness for secondary data usage.
 
 
 ## Collaboration
