@@ -4,7 +4,7 @@ title: "Technology-Driven Cardiac Rehabilitation"
 
 collection: portfolio
 
-permalink: /portfolio/cardiac-rehabilitation/
+permalink: /portfolio/cardiacrehabilitation/
 
 date: 2026-01-01
 
