@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about..'
 date: 2023-05-01
 venue: ''
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10257187'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10257187/'
 citation: 'N. Sharma, D. V. Le and P. J. M. Havinga, "Exploring the Impact of Locations and Activities in Person-Wise Data Mismatch in CSI-based HAR," 2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), Pafos, Cyprus, 2023, pp. 232-239, doi: 10.1109/DCOSS-IoT58021.2023.00048.'
 ---
 
