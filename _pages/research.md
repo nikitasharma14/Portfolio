@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing, evaluating, and implementing human-centered healthcare technologies by integrating Human–Computer Interaction, Behavioural Science, Artificial Intelligence, and Digital Health.
+Below are selected research projects that reflect my transdisciplinary research in healthcare.
 
 <div class="research-grid">
 
