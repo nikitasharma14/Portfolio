@@ -38,4 +38,4 @@ My current research focuses on:
 
 ## Collaboration
 
-I am interested in collaborations with researchers, clinicians, designers, and organizations working towards human-centered healthcare innovation.
+I am always interested in connecting with researchers, clinicians, designers, startups, and organizations that share a passion for human-centered healthcare innovation. If you have an exciting idea or would like to explore a potential collaboration, feel free to reach out — I would be happy to hear from you!
