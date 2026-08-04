@@ -11,26 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Human Computer Interaction, University of Twente, The Netherlands & University of Oulu, Finland, July 2019 - Feb 2024
+* M.S. in ECE (with major in cognitive neuroscience), IIIT Hyderabad, India, Jan 2017 - Dec 2019
+* B.Tech. EEE, Manipal University, 2012-2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Senior Researcher - Cardiac Rehabilitation
+  * Basalt Rehabilitation
+  * XYZ
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Strategic AI & Research Advisor
+  * PAVA
+  * XYZ
+   
+* Postdoctoral Researcher 
+  * University of Twente 
+  * XYZ
+  * Supervisor: 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher - Care and Innovation
+  * Valtes
+  * XYZ
+
+* Researcher - Data Science
+  * NEDAP Healthcare
+  * XYZ
+ 
+* Research intern
+  * Technology for emerging markets team, Microsoft Research
+  * XYZ
+  * Supervisor:
+ 
+* Research intern
+  * User experience and design (UXD) team, Siemens corporate technology
+  * XYZ
+  * Supervisor:
+ 
+* Research intern
+  * Research & Development, Onward Health
+  * XYZ
+  * Supervisor:
   
 Skills
 ======
@@ -61,4 +82,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* XYZ
