@@ -1,136 +1,69 @@
 /* ==========================================
-   Custom Styling - Nikita Sharma Portfolio
+   Nikita Sharma Portfolio - Custom Styling
    ========================================== */
 
 
-/* ------------------------------------------
-   Main content typography
-   ------------------------------------------ */
+/* ---------- Typography ---------- */
 
 .page__content {
   max-width: 850px;
-  font-size: 1.12rem;
+  font-size: 1.1rem;
   line-height: 1.85;
 }
 
-
-/* Paragraph spacing */
-
 .page__content p {
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.6rem;
 }
 
 
-/* ------------------------------------------
-   Sidebar
-   ------------------------------------------ */
+/* ---------- Headings ---------- */
 
-/* Name in sidebar */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__title,
 .author__name {
-  color: #1B263B !important;
+  color: #111827 !important;   /* Near black */
 }
-
-
-/* Sidebar bio */
-.author__bio {
-  color: #4A5568;
-}
-
-
-/* ------------------------------------------
-   Homepage title and headings
-   ------------------------------------------ */
-
-
-/* Main page title (if present) */
-
-.page__title {
-  color: #1B263B !important;
-  font-weight: 700;
-}
-
-
-/* All section headings */
 
 .page__content h2 {
-  color: #264653 !important;
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 700;
   margin-top: 5rem;
   margin-bottom: 1.5rem;
   border-bottom: none;
 }
 
-
-/* Subsection headings */
-
 .page__content h3 {
-  color: #2A9D8F !important;
   font-size: 1.35rem;
   font-weight: 600;
   margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
 }
 
 
-/* ------------------------------------------
-   Specific homepage sections
-   ------------------------------------------ */
+/* ---------- Sidebar ---------- */
 
-#research-vision {
-  color: #264653 !important;
-}
-
-#academic-background {
-  color: #264653 !important;
-}
-
-#current-role {
-  color: #264653 !important;
+.author__bio {
+  color: inherit;
 }
 
 
-#research-interests {
-  color: #264653 !important;
-}
-
-#collabrations {
-  color: #264653 !important;
-}
-
-
-
-/* ------------------------------------------
-   Links
-   ------------------------------------------ */
-
-.page__content a {
-  color: #2A9D8F;
-  text-decoration: none;
-}
-
-
-.page__content a:hover {
-  color: #264653;
-  text-decoration: underline;
-}
-
-
-/* ------------------------------------------
-   Hero introduction (first paragraph)
-   ------------------------------------------ */
+/* ---------- Hero paragraph ---------- */
 
 .page__content > p:first-of-type {
   font-size: 1.25rem;
   line-height: 1.9;
-  margin-top: 2rem;
   margin-bottom: 4rem;
 }
 
 
-/* ------------------------------------------
-   Better spacing between sections
-   ------------------------------------------ */
+/* ---------- Links ---------- */
 
-.page__content h2 + p {
-  margin-top: 0.5rem;
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
 }
