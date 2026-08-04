@@ -12,7 +12,8 @@ I am a transdisciplinary researcher working at the intersection of **Human–Com
 
 ## Research Vision
 
-While technological advancement drives new possibilities in healthcare, meaningful technological solutions should be responsive to the diverse needs, experiences, and contexts of end-users. This involves designing technologies *with* and *for* the people involved in healthcare — including those receiving care, delivering care, and supporting care processes — while ensuring that solutions align with the complexities of evolving healthcare systems.
+While technological advancement drives new possibilities in healthcare, meaningful solutions require technologies that are responsive to the diverse needs, experiences, and contexts of end-users. This involves designing technologies *with* and *for* the people involved in healthcare — including those receiving care, delivering care, and supporting care processes — while ensuring that solutions align with the complexities of evolving healthcare systems.
+
 
 In my research, I place people at the center of technology development so that solutions are designed around their needs, experiences, and everyday contexts. I integrate human-centered design to understand users and their needs, behavioural science to promote sustainable behaviour change, and artificial intelligence to develop personalized and data-driven solutions. This transdisciplinary approach supports the translation of research into healthcare technologies that are scientifically rigorous, meaningful to users, and feasible for implementation in real-world settings.
 
