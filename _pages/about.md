@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, and Artificial Intelligence** to design, evaluate, and implement digital health and sensing technologies that empower individuals, support healthcare professionals, and contribute to healthier societies. 
+I am a transdisciplinary researcher working at the intersection of **Human–Computer Interaction, Behavioural Science, and Artificial Intelligence** to design, evaluate, and implement digital and sensing healthcare technologies that empower individuals, support healthcare professionals, and contribute to healthier societies. 
 
 ## Research Vision
 
