@@ -5,7 +5,7 @@ collection: portfolio
 
 image: /images/ElderlyCare.jpg
 
-permalink: /Portfolio/entwine/
+permalink: /Portfolio/portfolio/entwine/
 
 date: 2019-05-01
 
