@@ -9,7 +9,7 @@ permalink: /portfolio/entwine/
 
 date: 2019-05-01
 
-layout: portfolio
+layout: single
 
 skills:
   - AI
