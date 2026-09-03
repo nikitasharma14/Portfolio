@@ -8,6 +8,12 @@ image: /images/ElderlyCare.jpg
 permalink: /portfolio/entwine/
 
 date: 2019-05-01
+
+skills:
+  - AI
+  - Behaviour change techniques
+  - Persuasive system design
+  - Pervasive computing
 ---
 ## Overview
 
