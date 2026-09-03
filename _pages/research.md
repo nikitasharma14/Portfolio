@@ -14,7 +14,7 @@ Below are selected research projects that reflect my transdisciplinary research 
 
 <div class="research-card">
 
-<a href="{{ project.url }}">
+<a href="{{ project.url | relative_url }}">
 
 {% if project.image %}
 <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
