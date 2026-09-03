@@ -3,7 +3,9 @@ title: "ENTWINE: Device-Free Behaviour Monitoring"
 
 collection: portfolio
 
+image: /images/ElderlyCare.jpg
+
 permalink: /portfolio/entwine/
 
-date: 2026-01-01
+date: 2019-05-01
 ---
