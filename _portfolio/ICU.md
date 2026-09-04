@@ -7,7 +7,7 @@ layout: archive
 
 permalink: /portfolio/ICU/
 
-date: 2026-02-01
+date: 2026-10-01
 
 image: /images/digitalnature.jpg
 
