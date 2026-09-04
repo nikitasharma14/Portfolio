@@ -9,7 +9,7 @@ permalink: /portfolio/cardiac/
 
 date: 2024-01-01
 
-image: /images/.jpg
+image: /images/MOCIA.jpg
 
 skills:
   - Digital Health
