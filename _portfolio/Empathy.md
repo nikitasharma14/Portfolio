@@ -28,7 +28,7 @@ This project investigated how **implicit social biases influence empathic respon
 
 Facial images were systematically manipulated across three social characteristics: **culturally prototypical versus atypical facial features, lighter versus darker skin tones, and place of residence**. Participants' neural responses were measured using **fMRI**, alongside self-report measures of rape myth acceptance and empathy. Data from 20 male participants were collected and analysed, providing preliminary evidence of how normalized social biases may shape empathic responses to victims of sexual violence. The fMRI brain scans were processed and analyzed using both General Linear Model (GLM) and Independent Component Analysis (ICA) frameworks to track regional blood-oxygen-level-dependent (BOLD) activation changes
 
-### Key Findings
+## Key Findings
 
 Faces representing **traditional/prototypical features and darker skin tones** elicited greater activation in neural regions associated with empathy compared with non-traditional faces. Place of residence did not produce a significant difference. Behavioural measures largely indicated **rejection of rape myths**, although two dimensions showed tendencies toward giving greater benefit of the doubt to perpetrators and attributing greater blame to victims. While the findings did not reach strict statistical significance across empathy-related neural activation and self-report measures, the observed patterns provide preliminary evidence that **implicit and normalized social biases may influence empathic responses toward rape victims**.
 
