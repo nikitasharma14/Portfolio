@@ -1,5 +1,5 @@
 ---
-title: "ENTWINE: Older adult care"
+title: "ENTWINE: Unobtrusive Sensing for Older Adult Care"
 
 collection: portfolio
 
@@ -12,10 +12,11 @@ date: 2019-05-01
 layout: archive
 
 skills:
-  - AI
-  - Behaviour change techniques
+  - AI & Machine Learning
+  - Wi-Fi CSI Sensing
+  - Human Activity Recognition
   - Persuasive system design
-  - Pervasive computing
+  - Human-Centered Design
 ---
 ## Overview
 
@@ -68,6 +69,8 @@ The research provides practical insights for developing and implementing unobtru
 
 This research was conducted as part of my doctoral thesis and can be accessed here:
 
-*Sensing the care: Advancing unobtrusive sensing solutions to support informal caregivers of older adults with cognitive impairment* (2024) — [10.3990/1.9789036559942](https://doi.org/10.3990/1.9789036559942)
+[*Sensing the care: Advancing unobtrusive sensing solutions to support informal caregivers of older adults with cognitive impairment*](https://doi.org/10.3990/1.9789036559942) (2024)
 
+## Funding
 
+This research was conducted within **ENTWINE**, a four-year Marie Skłodowska-Curie Innovation Training Network (ITN) funded by the European Union. More information is available on the [ENTWINE website](https://entwine-itn.eu/).
