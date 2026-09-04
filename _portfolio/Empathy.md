@@ -9,7 +9,7 @@ permalink: /portfolio/Empathy/
 
 date: 2019-06-01
 
-image: /images/.jpg
+image: /images/Empathy.jpg
 
 skills:
   - Cognitive Neuroscience
