@@ -1,5 +1,5 @@
 ---
-title: "Neural correlates of rape empathy"
+title: "Implicit Bias in Empathic Responses to Rape Victims"
 
 collection: portfolio
 
