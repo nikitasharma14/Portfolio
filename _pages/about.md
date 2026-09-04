@@ -29,14 +29,6 @@ Prior to my PhD, I completed an M.S. by Research in ECE at the **International I
 
 I work as a Senior Researcher in the Cardiology Department at Basalt Rehabilitation Center, The Netherlands, where I am establishing a research line focused on advancing technology-driven, data-informed, and personalized cardiac rehabilitation care.
 
-My current research projects are:
-
-- *Data-driven insights for cardiac rehabilitation*: Conducting retrospective longitudinal analysis of real-world cardiac rehabilitation data to understand patient characteristics, treatment pathways, and determinants of outcomes for supporting evidence-based care improvement and integration of rehabilitation data with the national heart registry (NHR).
-- *Digital and hybrid rehabilitation pathways*: Refining and evaluating digital and hybrid care models that complement traditional rehabilitation and support personalized, flexible, and accessible care delivery.
-- *AI-supported decision-making for rehabilitation training*: Exploring the use of sensing technologies and artificial intelligence to develop clinical decision-support tools that assist physiotherapists in estimating optimal training intensity, monitoring patient progress, and adapting rehabilitation programs over time.
-- *Data quality and responsible data use*: Establishing approaches to improve healthcare data quality, interoperability, and readiness for secondary data usage.
-
-
 ## Collaboration
 
 I am always interested in connecting with researchers, clinicians, designers, startups, and organizations that share a passion for human-centered healthcare innovation. If you have an exciting idea or would like to explore a potential collaboration, feel free to reach out — I would be happy to hear from you!
