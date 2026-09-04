@@ -5,7 +5,7 @@ collection: portfolio
 
 layout: portfolio
 
-permalink: /portfolio/cardiac/
+permalink: /portfolio/MOCIA/
 
 date: 2024-01-01
 
