@@ -26,10 +26,6 @@ This project explored the use of device-free sensing technologies, particularly 
 
 The research was organized into three complementary phases, moving from understanding the state of the art, to developing and testing sensing technologies, and finally to translating sensing information into meaningful caregiver communication.
 
-## Research Approach & Key Findings
-
-The research was organized into three complementary phases, moving from understanding the state of the art, to developing and testing sensing technologies, and finally to translating sensing information into meaningful caregiver communication.
-
 ### 1. Explore & Scope
 
 **Approach:**
