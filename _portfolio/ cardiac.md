@@ -12,10 +12,10 @@ date: 2026-02-01
 image: /images/CR.jpg
 
 skills:
-  - AI
   - Digital Health
   - Cardiac Rehabilitation
-  - Data Science
+  - AI & Machine Learning
+  - Personalized and Hybrid Care
 ---
 
 ## Research Direction
