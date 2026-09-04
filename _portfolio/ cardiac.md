@@ -24,11 +24,12 @@ The overarching aim of this research line is to integrate **emerging technologie
 
 ## Current Research
 
-* **Understanding Cardiac Rehabilitation in the real world:** A longitudinal analysis of routinely collected data from more than 5,000 cardiac rehabilitation patients is being used to characterize patient profiles, rehabilitation trajectories, and outcomes, and to explore factors associated with differences in rehabilitation.
+My current research projects are:
 
-* **AI-Assisted Rehabilitation:** This work explores **AI-based assistive systems for physiotherapists**, with the aim of supporting professionals in interpreting patient data, monitoring rehabilitation, and making more informed and personalized decisions.
-
-* **Recovery and Physical Activity Trajectories:** This project examines **step-count trajectories over the year following a cardiac event** to better understand changes in physical activity during recovery and identify patterns that may inform longer-term rehabilitation and follow-up.
+* **Data-driven insights for cardiac rehabilitation:** Conducting retrospective longitudinal analysis of real-world cardiac rehabilitation data to understand patient characteristics, treatment pathways, and determinants of outcomes for supporting evidence-based care improvement and integration of rehabilitation data with the national heart registry (NHR).
+* **Digital and hybrid rehabilitation pathways:** Refining and evaluating digital and hybrid care models that complement traditional rehabilitation and support personalized, flexible, and accessible care delivery.
+* **AI-supported decision-making for rehabilitation training:** Exploring the use of sensing technologies and artificial intelligence to develop clinical decision-support tools that assist physiotherapists in estimating optimal training intensity, monitoring patient progress, and adapting rehabilitation programs over time.
+* **Data quality and responsible data use:** Establishing approaches to improve healthcare data quality, interoperability, and readiness for secondary data usage.
 
 ## Clinical Context
 
