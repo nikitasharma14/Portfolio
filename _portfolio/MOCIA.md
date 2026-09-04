@@ -3,7 +3,7 @@ title: "MOCIA: Personalised Digital Health toolkit for Healthy Ageing"
 
 collection: portfolio
 
-layout: archive
+layout: archive 
 
 permalink: /portfolio/MOCIA/
 
